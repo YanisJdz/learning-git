@@ -2,6 +2,6 @@
 
 #### Se rendre dans son dossier/repertory à l'aide du terminal. (cd /user/.....)
 ###### Optionel : créer un repertoire avec un mkdir
-#### "git init" // Définir le répertoire initial 
+#### "git init" 
 
-##### Ceci sert à s'enregistrer sur sa machine pour que les informations de l'utilisateur apparraissent dans les logs Git
+##### Ceci sert à définir le répertoire initial dans lequel on va travailler et partager notre projet
