@@ -1,4 +1,4 @@
-# Config
+# Config:
 
 #### git config --global user.name // Entrer son nom
 #### git config --global user.email // Entrer son email
